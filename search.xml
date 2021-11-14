@@ -70,7 +70,7 @@
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -89,7 +89,7 @@
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -127,7 +127,7 @@
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -147,6 +147,25 @@
       <categories>
           
           <category> 图床 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MPGH</title>
+      <link href="/2021/11/14/link/mpgh/"/>
+      <url>/2021/11/14/link/mpgh/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏黑客论坛 </category>
           
       </categories>
       
@@ -241,7 +260,7 @@
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -251,16 +270,16 @@
     
     
     <entry>
-      <title>学破解论坛</title>
-      <link href="/2021/11/14/link/xuepojie/"/>
-      <url>/2021/11/14/link/xuepojie/</url>
+      <title>学逆向论坛</title>
+      <link href="/2021/11/14/link/xuenixiang/"/>
+      <url>/2021/11/14/link/xuenixiang/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -279,7 +298,26 @@
       
       <categories>
           
-          <category> 安全类论坛 </category>
+          <category> 安全类网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>学破解论坛</title>
+      <link href="/2021/11/14/link/xuepojie/"/>
+      <url>/2021/11/14/link/xuepojie/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -356,6 +394,63 @@
       <categories>
           
           <category> 游戏黑客论坛 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows内核安全驱动编程</title>
+      <link href="/2021/11/14/link/dbgpro/"/>
+      <url>/2021/11/14/link/dbgpro/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Red Teaming Experiments</title>
+      <link href="/2021/11/14/link/ired/"/>
+      <url>/2021/11/14/link/ired/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Secret Club</title>
+      <link href="/2021/11/14/link/secret/"/>
+      <url>/2021/11/14/link/secret/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
           
       </categories>
       
