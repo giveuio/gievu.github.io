@@ -5,8 +5,8 @@
     
     <entry>
       <title>精易论坛</title>
-      <link href="/2021/11/14/link/125/"/>
-      <url>/2021/11/14/link/125/</url>
+      <link href="/2021/11/14/link/it-lei/125/"/>
+      <url>/2021/11/14/link/it-lei/125/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -24,8 +24,27 @@
     
     <entry>
       <title>博客园</title>
-      <link href="/2021/11/14/link/cnblogs/"/>
-      <url>/2021/11/14/link/cnblogs/</url>
+      <link href="/2021/11/14/link/it-lei/cnblogs/"/>
+      <url>/2021/11/14/link/it-lei/cnblogs/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> IT类论坛 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>stackoverflow</title>
+      <link href="/2021/11/14/link/it-lei/csdn-copy/"/>
+      <url>/2021/11/14/link/it-lei/csdn-copy/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -43,8 +62,8 @@
     
     <entry>
       <title>CSDN</title>
-      <link href="/2021/11/14/link/csdn/"/>
-      <url>/2021/11/14/link/csdn/</url>
+      <link href="/2021/11/14/link/it-lei/csdn/"/>
+      <url>/2021/11/14/link/it-lei/csdn/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -62,8 +81,8 @@
     
     <entry>
       <title>看雪论坛</title>
-      <link href="/2021/11/14/link/kanxue/"/>
-      <url>/2021/11/14/link/kanxue/</url>
+      <link href="/2021/11/14/link/an-quan-lei/kanxue/"/>
+      <url>/2021/11/14/link/an-quan-lei/kanxue/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -81,46 +100,8 @@
     
     <entry>
       <title>FreeBuf</title>
-      <link href="/2021/11/14/link/freebuf/"/>
-      <url>/2021/11/14/link/freebuf/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 安全类网站 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>挂海论坛</title>
-      <link href="/2021/11/14/link/52ghai/"/>
-      <url>/2021/11/14/link/52ghai/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 游戏黑客论坛 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>吾爱破解</title>
-      <link href="/2021/11/14/link/52pojie/"/>
-      <url>/2021/11/14/link/52pojie/</url>
+      <link href="/2021/11/14/link/an-quan-lei/freebuf/"/>
+      <url>/2021/11/14/link/an-quan-lei/freebuf/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -156,16 +137,35 @@
     
     
     <entry>
-      <title>MPGH</title>
-      <link href="/2021/11/14/link/mpgh/"/>
-      <url>/2021/11/14/link/mpgh/</url>
+      <title>MSDN, 我告诉你 - 做一个安静的工具站</title>
+      <link href="/2021/11/14/link/itellyou/"/>
+      <url>/2021/11/14/link/itellyou/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 游戏黑客论坛 </category>
+          <category> 资源站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>鸠摩搜索</title>
+      <link href="/2021/11/14/link/jiumodiary/"/>
+      <url>/2021/11/14/link/jiumodiary/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源站 </category>
           
       </categories>
       
@@ -176,8 +176,8 @@
     
     <entry>
       <title>https://ntdiff.github.io/</title>
-      <link href="/2021/11/14/link/ntdiff/"/>
-      <url>/2021/11/14/link/ntdiff/</url>
+      <link href="/2021/11/14/link/nei-he-lei/ntdiff/"/>
+      <url>/2021/11/14/link/nei-he-lei/ntdiff/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -185,25 +185,6 @@
       <categories>
           
           <category> 内核相关网站 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>UnknownCheats</title>
-      <link href="/2021/11/14/link/unknowncheats/"/>
-      <url>/2021/11/14/link/unknowncheats/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 游戏黑客论坛 </category>
           
       </categories>
       
@@ -214,8 +195,8 @@
     
     <entry>
       <title>https://www.vergiliusproject.com/</title>
-      <link href="/2021/11/14/link/vergiliusproject/"/>
-      <url>/2021/11/14/link/vergiliusproject/</url>
+      <link href="/2021/11/14/link/nei-he-lei/vergiliusproject/"/>
+      <url>/2021/11/14/link/nei-he-lei/vergiliusproject/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -232,16 +213,35 @@
     
     
     <entry>
-      <title>MSDN, 我告诉你 - 做一个安静的工具站</title>
-      <link href="/2021/11/14/link/itellyou/"/>
-      <url>/2021/11/14/link/itellyou/</url>
+      <title>吾爱破解</title>
+      <link href="/2021/11/14/link/an-quan-lei/52pojie/"/>
+      <url>/2021/11/14/link/an-quan-lei/52pojie/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 工具资源站 </category>
+          <category> 安全类网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>反调试技巧 https://anti-debug.checkpoint.com/</title>
+      <link href="/2021/11/14/link/an-quan-lei/checkpoint/"/>
+      <url>/2021/11/14/link/an-quan-lei/checkpoint/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
           
       </categories>
       
@@ -252,8 +252,27 @@
     
     <entry>
       <title>紫水晶论坛</title>
-      <link href="/2021/11/14/link/m5home/"/>
-      <url>/2021/11/14/link/m5home/</url>
+      <link href="/2021/11/14/link/an-quan-lei/m5home/"/>
+      <url>/2021/11/14/link/an-quan-lei/m5home/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 安全类网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>每日安全</title>
+      <link href="/2021/11/14/link/an-quan-lei/sectoday/"/>
+      <url>/2021/11/14/link/an-quan-lei/sectoday/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -271,8 +290,8 @@
     
     <entry>
       <title>学逆向论坛</title>
-      <link href="/2021/11/14/link/xuenixiang/"/>
-      <url>/2021/11/14/link/xuenixiang/</url>
+      <link href="/2021/11/14/link/an-quan-lei/xuenixiang/"/>
+      <url>/2021/11/14/link/an-quan-lei/xuenixiang/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -290,8 +309,8 @@
     
     <entry>
       <title>学破解论坛</title>
-      <link href="/2021/11/14/link/xuepojie/"/>
-      <url>/2021/11/14/link/xuepojie/</url>
+      <link href="/2021/11/14/link/an-quan-lei/xuepojie/"/>
+      <url>/2021/11/14/link/an-quan-lei/xuepojie/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -309,8 +328,8 @@
     
     <entry>
       <title>夜雨楼</title>
-      <link href="/2021/11/14/link/yeyulou/"/>
-      <url>/2021/11/14/link/yeyulou/</url>
+      <link href="/2021/11/14/link/an-quan-lei/yeyulou/"/>
+      <url>/2021/11/14/link/an-quan-lei/yeyulou/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -327,16 +346,16 @@
     
     
     <entry>
-      <title>Gitee</title>
-      <link href="/2021/11/14/link/gitee/"/>
-      <url>/2021/11/14/link/gitee/</url>
+      <title>UnknownCheats</title>
+      <link href="/2021/11/14/link/you-xi-hei-ke-lei/unknowncheats/"/>
+      <url>/2021/11/14/link/you-xi-hei-ke-lei/unknowncheats/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
       <categories>
           
-          <category> 源码开源网站 </category>
+          <category> 游戏黑客论坛 </category>
           
       </categories>
       
@@ -346,9 +365,28 @@
     
     
     <entry>
-      <title>GuidedHacking</title>
-      <link href="/2021/11/14/link/guidedhacking/"/>
-      <url>/2021/11/14/link/guidedhacking/</url>
+      <title>挂海论坛</title>
+      <link href="/2021/11/14/link/you-xi-hei-ke-lei/52ghai/"/>
+      <url>/2021/11/14/link/you-xi-hei-ke-lei/52ghai/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏黑客论坛 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MPGH</title>
+      <link href="/2021/11/14/link/you-xi-hei-ke-lei/mpgh/"/>
+      <url>/2021/11/14/link/you-xi-hei-ke-lei/mpgh/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -366,8 +404,8 @@
     
     <entry>
       <title>GitHacks</title>
-      <link href="/2021/11/14/link/githacks/"/>
-      <url>/2021/11/14/link/githacks/</url>
+      <link href="/2021/11/14/link/yuan-ma-kai-yuan/githacks/"/>
+      <url>/2021/11/14/link/yuan-ma-kai-yuan/githacks/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -385,8 +423,8 @@
     
     <entry>
       <title>GitHub</title>
-      <link href="/2021/11/14/link/github/"/>
-      <url>/2021/11/14/link/github/</url>
+      <link href="/2021/11/14/link/yuan-ma-kai-yuan/github/"/>
+      <url>/2021/11/14/link/yuan-ma-kai-yuan/github/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -403,9 +441,47 @@
     
     
     <entry>
+      <title>Gitee</title>
+      <link href="/2021/11/14/link/yuan-ma-kai-yuan/gitee/"/>
+      <url>/2021/11/14/link/yuan-ma-kai-yuan/gitee/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 源码开源网站 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GuidedHacking</title>
+      <link href="/2021/11/14/link/you-xi-hei-ke-lei/guidedhacking/"/>
+      <url>/2021/11/14/link/you-xi-hei-ke-lei/guidedhacking/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏黑客论坛 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows内核安全驱动编程</title>
-      <link href="/2021/11/14/link/dbgpro/"/>
-      <url>/2021/11/14/link/dbgpro/</url>
+      <link href="/2021/11/14/link/an-quan-lei/dbgpro/"/>
+      <url>/2021/11/14/link/an-quan-lei/dbgpro/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -423,8 +499,8 @@
     
     <entry>
       <title>Red Teaming Experiments</title>
-      <link href="/2021/11/14/link/ired/"/>
-      <url>/2021/11/14/link/ired/</url>
+      <link href="/2021/11/14/link/an-quan-lei/ired/"/>
+      <url>/2021/11/14/link/an-quan-lei/ired/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -442,8 +518,8 @@
     
     <entry>
       <title>Secret Club</title>
-      <link href="/2021/11/14/link/secret/"/>
-      <url>/2021/11/14/link/secret/</url>
+      <link href="/2021/11/14/link/an-quan-lei/secret/"/>
+      <url>/2021/11/14/link/an-quan-lei/secret/</url>
       
         <content type="html"><![CDATA[]]></content>
       
