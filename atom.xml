@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-16T14:00:39.199Z</updated>
+  <updated>2021-11-16T14:55:11.640Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,74 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>seebug 洞悉漏洞</title>
+    <link href="http://example.com/2021/11/16/link/an-quan-lei/seebug/"/>
+    <id>http://example.com/2021/11/16/link/an-quan-lei/seebug/</id>
+    <published>2021-11-16T13:50:26.000Z</published>
+    <updated>2021-11-16T14:55:11.640Z</updated>
+    
+    
+    <summary type="html">漏洞文档,漏洞分析,安全技术</summary>
+    
+    
+    
+    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>嘶吼</title>
+    <link href="http://example.com/2021/11/16/link/an-quan-lei/4hou/"/>
+    <id>http://example.com/2021/11/16/link/an-quan-lei/4hou/</id>
+    <published>2021-11-16T13:50:26.000Z</published>
+    <updated>2021-11-16T14:57:10.207Z</updated>
+    
+    
+    <summary type="html">一个深度与温度兼具，态度与情怀并存的信息安全新媒体</summary>
+    
+    
+    
+    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GoogleProjectZero</title>
+    <link href="http://example.com/2021/11/16/link/an-quan-lei/googleprojectzero/"/>
+    <id>http://example.com/2021/11/16/link/an-quan-lei/googleprojectzero/</id>
+    <published>2021-11-16T13:48:26.000Z</published>
+    <updated>2021-11-16T14:56:04.878Z</updated>
+    
+    
+    <summary type="html">来自 Google 零项目团队的新闻和更新。</summary>
+    
+    
+    
+    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>先知社区</title>
+    <link href="http://example.com/2021/11/16/link/an-quan-lei/xz/"/>
+    <id>http://example.com/2021/11/16/link/an-quan-lei/xz/</id>
+    <published>2021-11-16T13:48:26.000Z</published>
+    <updated>2021-11-16T14:54:26.892Z</updated>
+    
+    
+    <summary type="html">先知社区，先知安全技术社区</summary>
+    
+    
+    
+    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>腾讯哈勃分析系统</title>
@@ -153,6 +221,23 @@
   </entry>
   
   <entry>
+    <title>全球主机交流论坛</title>
+    <link href="http://example.com/2021/11/14/link/it-lei/hostloc/"/>
+    <id>http://example.com/2021/11/14/link/it-lei/hostloc/</id>
+    <published>2021-11-14T13:46:28.000Z</published>
+    <updated>2021-11-16T14:53:38.472Z</updated>
+    
+    
+    <summary type="html">全球主机交流论坛  玩服务器必备得</summary>
+    
+    
+    
+    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>FreeBuf</title>
     <link href="http://example.com/2021/11/14/link/an-quan-lei/freebuf/"/>
     <id>http://example.com/2021/11/14/link/an-quan-lei/freebuf/</id>
@@ -263,91 +348,6 @@
     
     
     <summary type="html">吾爱破解关注PC软件安全和移动安全领域，致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由众多热衷于软件加密解密及反病毒爱好者共同维护。</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>反调试技巧 https://anti-debug.checkpoint.com/</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/checkpoint/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/checkpoint/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:20:20.727Z</updated>
-    
-    
-    <summary type="html">调试是恶意软件分析的重要组成部分。每次我们需要深入了解恶意软件行为、恢复加密方法或检查通信协议时——通常，每当我们需要在特定时间检查内存时——我们都会使用调试器。</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>紫水晶论坛</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/m5home/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/m5home/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:07:22.852Z</updated>
-    
-    
-    <summary type="html">紫水晶论坛主打的windows内核研究</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>每日安全</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/sectoday/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/sectoday/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:18:45.665Z</updated>
-    
-    
-    <summary type="html">每日安全最开始是一个内部项目，通过交叉检索公开的数据源来建立一个信息安全资讯的聚合网站。我们用它来发现历史议题中隐藏的珍贵信息，跟踪最新的研究方向，以及阅读每日的信息安全新闻。</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>学逆向论坛</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/xuenixiang/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/xuenixiang/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:08:31.673Z</updated>
-    
-    
-    <summary type="html">学逆向论坛|免费的CTF在线练习平台|ctf攻防训练靶场|网安夺旗竞赛系统|软件破解|病毒分析|游戏外挂|视频教程</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>学破解论坛</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/xuepojie/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/xuepojie/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:08:35.316Z</updated>
-    
-    
-    <summary type="html">学破解论坛专注于软件安全领域。原吾爱破解论坛版主亲手打造本站。学习软件逆向分析技术，使软件开发者能够更好的弥补软件缺陷，修复软件漏洞，提升软件安全，将损失降为最低。</summary>
     
     
     
