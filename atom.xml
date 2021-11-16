@@ -3,11 +3,11 @@
   <title>GiveU</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://giveu.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://giveu.io/"/>
   <updated>2021-11-16T14:55:11.640Z</updated>
-  <id>http://example.com/</id>
+  <id>http://giveu.io/</id>
   
   <author>
     <name>GiveU</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>seebug 洞悉漏洞</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/seebug/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/seebug/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/seebug/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/seebug/</id>
     <published>2021-11-16T13:50:26.000Z</published>
     <updated>2021-11-16T14:55:11.640Z</updated>
     
@@ -28,15 +28,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>嘶吼</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/4hou/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/4hou/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/4hou/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/4hou/</id>
     <published>2021-11-16T13:50:26.000Z</published>
     <updated>2021-11-16T14:57:10.207Z</updated>
     
@@ -45,15 +45,34 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>内核类开源项目</title>
+    <link href="http://giveu.io/2021/11/16/you-zhi-kai-yuan-xiang-mu/xxx/"/>
+    <id>http://giveu.io/2021/11/16/you-zhi-kai-yuan-xiang-mu/xxx/</id>
+    <published>2021-11-16T13:50:26.000Z</published>
+    <updated>2021-11-16T15:07:01.642Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎投稿 <a href="mailto:&#97;&#x64;&#x6d;&#105;&#x6e;&#64;&#x67;&#105;&#x76;&#x65;&#x75;&#46;&#105;&#x6f;">&#97;&#x64;&#x6d;&#105;&#x6e;&#64;&#x67;&#105;&#x76;&#x65;&#x75;&#46;&#105;&#x6f;</a></p>]]></content>
+    
+    
+    <summary type="html">内核驱动类开源项目收集</summary>
+    
+    
+    
+    <category term="优质开源项目" scheme="http://giveu.io/categories/%E4%BC%98%E8%B4%A8%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/"/>
     
     
   </entry>
   
   <entry>
     <title>GoogleProjectZero</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/googleprojectzero/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/googleprojectzero/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/googleprojectzero/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/googleprojectzero/</id>
     <published>2021-11-16T13:48:26.000Z</published>
     <updated>2021-11-16T14:56:04.878Z</updated>
     
@@ -62,15 +81,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>先知社区</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/xz/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/xz/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/xz/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/xz/</id>
     <published>2021-11-16T13:48:26.000Z</published>
     <updated>2021-11-16T14:54:26.892Z</updated>
     
@@ -79,15 +98,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>腾讯哈勃分析系统</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/habo/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/habo/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/habo/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/habo/</id>
     <published>2021-11-16T13:46:26.000Z</published>
     <updated>2021-11-16T14:00:39.199Z</updated>
     
@@ -96,15 +115,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>微步在线云沙箱</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/threatbook/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/threatbook/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/threatbook/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/threatbook/</id>
     <published>2021-11-16T13:46:26.000Z</published>
     <updated>2021-11-16T14:02:21.182Z</updated>
     
@@ -113,15 +132,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>VIRUSTOTAL</title>
-    <link href="http://example.com/2021/11/16/link/an-quan-lei/virustotal/"/>
-    <id>http://example.com/2021/11/16/link/an-quan-lei/virustotal/</id>
+    <link href="http://giveu.io/2021/11/16/link/an-quan-lei/virustotal/"/>
+    <id>http://giveu.io/2021/11/16/link/an-quan-lei/virustotal/</id>
     <published>2021-11-16T13:46:26.000Z</published>
     <updated>2021-11-16T13:58:32.686Z</updated>
     
@@ -130,15 +149,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>博客园</title>
-    <link href="http://example.com/2021/11/14/link/it-lei/cnblogs/"/>
-    <id>http://example.com/2021/11/14/link/it-lei/cnblogs/</id>
+    <link href="http://giveu.io/2021/11/14/link/it-lei/cnblogs/"/>
+    <id>http://giveu.io/2021/11/14/link/it-lei/cnblogs/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-15T14:06:15.343Z</updated>
     
@@ -147,15 +166,15 @@
     
     
     
-    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    <category term="IT类论坛" scheme="http://giveu.io/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
     
     
   </entry>
   
   <entry>
     <title>精易论坛</title>
-    <link href="http://example.com/2021/11/14/link/it-lei/125/"/>
-    <id>http://example.com/2021/11/14/link/it-lei/125/</id>
+    <link href="http://giveu.io/2021/11/14/link/it-lei/125/"/>
+    <id>http://giveu.io/2021/11/14/link/it-lei/125/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-15T14:06:12.339Z</updated>
     
@@ -164,15 +183,15 @@
     
     
     
-    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    <category term="IT类论坛" scheme="http://giveu.io/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
     
     
   </entry>
   
   <entry>
     <title>stackoverflow</title>
-    <link href="http://example.com/2021/11/14/link/it-lei/csdn-copy/"/>
-    <id>http://example.com/2021/11/14/link/it-lei/csdn-copy/</id>
+    <link href="http://giveu.io/2021/11/14/link/it-lei/csdn-copy/"/>
+    <id>http://giveu.io/2021/11/14/link/it-lei/csdn-copy/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-15T14:21:26.224Z</updated>
     
@@ -181,15 +200,15 @@
     
     
     
-    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    <category term="IT类论坛" scheme="http://giveu.io/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
     
     
   </entry>
   
   <entry>
     <title>CSDN</title>
-    <link href="http://example.com/2021/11/14/link/it-lei/csdn/"/>
-    <id>http://example.com/2021/11/14/link/it-lei/csdn/</id>
+    <link href="http://giveu.io/2021/11/14/link/it-lei/csdn/"/>
+    <id>http://giveu.io/2021/11/14/link/it-lei/csdn/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-15T14:06:09.999Z</updated>
     
@@ -198,15 +217,15 @@
     
     
     
-    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    <category term="IT类论坛" scheme="http://giveu.io/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
     
     
   </entry>
   
   <entry>
     <title>看雪论坛</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/kanxue/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/kanxue/</id>
+    <link href="http://giveu.io/2021/11/14/link/an-quan-lei/kanxue/"/>
+    <id>http://giveu.io/2021/11/14/link/an-quan-lei/kanxue/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-15T14:05:41.694Z</updated>
     
@@ -215,15 +234,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>全球主机交流论坛</title>
-    <link href="http://example.com/2021/11/14/link/it-lei/hostloc/"/>
-    <id>http://example.com/2021/11/14/link/it-lei/hostloc/</id>
+    <link href="http://giveu.io/2021/11/14/link/it-lei/hostloc/"/>
+    <id>http://giveu.io/2021/11/14/link/it-lei/hostloc/</id>
     <published>2021-11-14T13:46:28.000Z</published>
     <updated>2021-11-16T14:53:38.472Z</updated>
     
@@ -232,15 +251,15 @@
     
     
     
-    <category term="IT类论坛" scheme="http://example.com/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
+    <category term="IT类论坛" scheme="http://giveu.io/categories/IT%E7%B1%BB%E8%AE%BA%E5%9D%9B/"/>
     
     
   </entry>
   
   <entry>
     <title>FreeBuf</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/freebuf/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/freebuf/</id>
+    <link href="http://giveu.io/2021/11/14/link/an-quan-lei/freebuf/"/>
+    <id>http://giveu.io/2021/11/14/link/an-quan-lei/freebuf/</id>
     <published>2021-11-14T13:46:27.000Z</published>
     <updated>2021-11-15T14:06:34.532Z</updated>
     
@@ -249,15 +268,15 @@
     
     
     
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="安全类网站" scheme="http://giveu.io/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>Imgur</title>
-    <link href="http://example.com/2021/11/14/link/imgur/"/>
-    <id>http://example.com/2021/11/14/link/imgur/</id>
+    <link href="http://giveu.io/2021/11/14/link/imgur/"/>
+    <id>http://giveu.io/2021/11/14/link/imgur/</id>
     <published>2021-11-14T13:46:26.000Z</published>
     <updated>2021-11-15T15:28:32.246Z</updated>
     
@@ -266,15 +285,15 @@
     
     
     
-    <category term="图床" scheme="http://example.com/categories/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="图床" scheme="http://giveu.io/categories/%E5%9B%BE%E5%BA%8A/"/>
     
     
   </entry>
   
   <entry>
     <title>鸠摩搜索</title>
-    <link href="http://example.com/2021/11/14/link/jiumodiary/"/>
-    <id>http://example.com/2021/11/14/link/jiumodiary/</id>
+    <link href="http://giveu.io/2021/11/14/link/jiumodiary/"/>
+    <id>http://giveu.io/2021/11/14/link/jiumodiary/</id>
     <published>2021-11-14T13:46:26.000Z</published>
     <updated>2021-11-15T14:22:11.020Z</updated>
     
@@ -283,15 +302,15 @@
     
     
     
-    <category term="资源站" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90%E7%AB%99/"/>
+    <category term="资源站" scheme="http://giveu.io/categories/%E8%B5%84%E6%BA%90%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>MSDN, 我告诉你 - 做一个安静的工具站</title>
-    <link href="http://example.com/2021/11/14/link/itellyou/"/>
-    <id>http://example.com/2021/11/14/link/itellyou/</id>
+    <link href="http://giveu.io/2021/11/14/link/itellyou/"/>
+    <id>http://giveu.io/2021/11/14/link/itellyou/</id>
     <published>2021-11-14T13:46:26.000Z</published>
     <updated>2021-11-15T14:21:51.565Z</updated>
     
@@ -300,15 +319,15 @@
     
     
     
-    <category term="资源站" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90%E7%AB%99/"/>
+    <category term="资源站" scheme="http://giveu.io/categories/%E8%B5%84%E6%BA%90%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>https://ntdiff.github.io/</title>
-    <link href="http://example.com/2021/11/14/link/nei-he-lei/ntdiff/"/>
-    <id>http://example.com/2021/11/14/link/nei-he-lei/ntdiff/</id>
+    <link href="http://giveu.io/2021/11/14/link/nei-he-lei/ntdiff/"/>
+    <id>http://giveu.io/2021/11/14/link/nei-he-lei/ntdiff/</id>
     <published>2021-11-14T13:46:26.000Z</published>
     <updated>2021-11-15T14:07:56.341Z</updated>
     
@@ -317,15 +336,15 @@
     
     
     
-    <category term="内核相关网站" scheme="http://example.com/categories/%E5%86%85%E6%A0%B8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
+    <category term="内核相关网站" scheme="http://giveu.io/categories/%E5%86%85%E6%A0%B8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
   
   <entry>
     <title>https://www.vergiliusproject.com/</title>
-    <link href="http://example.com/2021/11/14/link/nei-he-lei/vergiliusproject/"/>
-    <id>http://example.com/2021/11/14/link/nei-he-lei/vergiliusproject/</id>
+    <link href="http://giveu.io/2021/11/14/link/nei-he-lei/vergiliusproject/"/>
+    <id>http://giveu.io/2021/11/14/link/nei-he-lei/vergiliusproject/</id>
     <published>2021-11-14T13:46:26.000Z</published>
     <updated>2021-11-15T14:08:15.601Z</updated>
     
@@ -334,24 +353,7 @@
     
     
     
-    <category term="内核相关网站" scheme="http://example.com/categories/%E5%86%85%E6%A0%B8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>吾爱破解</title>
-    <link href="http://example.com/2021/11/14/link/an-quan-lei/52pojie/"/>
-    <id>http://example.com/2021/11/14/link/an-quan-lei/52pojie/</id>
-    <published>2021-11-14T13:46:26.000Z</published>
-    <updated>2021-11-15T14:05:21.640Z</updated>
-    
-    
-    <summary type="html">吾爱破解关注PC软件安全和移动安全领域，致力于软件安全与病毒分析的前沿，丰富的技术版块交相辉映，由众多热衷于软件加密解密及反病毒爱好者共同维护。</summary>
-    
-    
-    
-    <category term="安全类网站" scheme="http://example.com/categories/%E5%AE%89%E5%85%A8%E7%B1%BB%E7%BD%91%E7%AB%99/"/>
+    <category term="内核相关网站" scheme="http://giveu.io/categories/%E5%86%85%E6%A0%B8%E7%9B%B8%E5%85%B3%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
