@@ -61,6 +61,25 @@
     
     
     <entry>
+      <title>内核开发相关文档</title>
+      <link href="/2021/11/16/kai-fa-wen-dang/kernel/"/>
+      <url>/2021/11/16/kai-fa-wen-dang/kernel/</url>
+      
+        <content type="html"><![CDATA[<p>SSDT调用号：<br><a href="http://j00ru.vexillium.org/ntapi/">http://j00ru.vexillium.org/ntapi/</a><br><a href="http://j00ru.vexillium.org/ntapi_64/">http://j00ru.vexillium.org/ntapi_64/</a></p><p>ShadowSSDT调用号：<br><a href="http://j00ru.vexillium.org/win32k_syscalls/">http://j00ru.vexillium.org/win32k_syscalls/</a><br><a href="http://j00ru.vexillium.org/win32k_x64/">http://j00ru.vexillium.org/win32k_x64/</a></p><p>NTSTATUS一览表：<br><a href="http://msdn.microsoft.com/en-us/library/cc704588.aspx">http://msdn.microsoft.com/en-us/library/cc704588.aspx</a></p><p>蓝屏代码一览表：<br><a href="http://msdn.microsoft.com/en-us/library/windows/hardware/hh994433">http://msdn.microsoft.com/en-us/library/windows/hardware/hh994433</a></p><p>系统错误代码查询：<br><a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms681381">https://msdn.microsoft.com/en-us/library/windows/desktop/ms681381</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发文档 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>GoogleProjectZero</title>
       <link href="/2021/11/16/link/an-quan-lei/googleprojectzero/"/>
       <url>/2021/11/16/link/an-quan-lei/googleprojectzero/</url>
